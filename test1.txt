@@ -4,3 +4,8 @@ Test file 2
 
 first line
 second line
+1
+2
+3
+
+4
